@@ -62,8 +62,9 @@ I like direct feedback in voice-to-voice conversation ideally. For simple matter
 
 I’ve been told that I can seem aloof or uninterested upon first meeting, because I’m not quick to speak. It takes a lot for me to speak up in unfamiliar settings, with new people, and in large group settings. I can if absolutely necessary, but am most comfortable in small group settings and with a substantial period of shared proximity before speaking at length to or with anyone.
 
+---
 
-### Let's write some code!
+### Write your User Guide!
 
 We will use Glitch to create our User Guide. Glitch is a website that makes it super easy to write and share code. 
 
@@ -125,7 +126,7 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![glitch-2.png](glitch.png)
 
-11. Write the rest of your user guide! Use Google to research how to make your user guide page 
+11. Write the rest of your User Guide! Use Google to research how to make your user guide page 
 
-12. Share your User Guide link (should look like `some-words.glitch.me` with everyone in Slack~
+12. Share your User Guide link (should look like `some-words.glitch.me`) with everyone in Slack.
 
