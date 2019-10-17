@@ -78,7 +78,8 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch2.png)
 
-4. This is your new Glitch project! Take some time to read the README.md file
+4. This is your new Glitch project! Take some time to read the README.md file.
+	* You'll see README files often - a README is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
 
 ![](images/glitch3.png)
 
