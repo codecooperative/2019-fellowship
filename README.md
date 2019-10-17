@@ -25,4 +25,4 @@ The Code Cooperative is a Community of people who learn, use, and build technolo
 
 ### Class Resources
 
-10/19/19 | [Class 0 - Hello, World!](http://github.com/codecooperative/2019-fellowship/classes/class-0)
+10/19/19 | [Class 0 - Hello, World!](http://github.com/codecooperative/2019-fellowship/resources/class-0)
