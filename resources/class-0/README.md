@@ -21,6 +21,10 @@ Slack is a messaging app. We will use it to communicate about class, code, anyth
 * Join the `#2019-fellowship` channel!
 * Start chatting :)
 
+## What is HTML?
+
+TODO: Brief overview of what HTML is, maybe something from here? [http://www.goodellgroup.com/tutorial/chapter1.html](http://www.goodellgroup.com/tutorial/chapter1.html)
+
 ## Set up your User Guide
 
 ### What is a User Guide?
@@ -124,7 +128,11 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch7.png)
 
-11. Write the rest of your User Guide! Use Google to research how to make your user guide page. Try searching for "thing I want to do" + "HTML" and see what results come up!
+11. Write the rest of your User Guide! Use Google to research how to make your user guide page.
+	* TODO: Add a suggestion for a few HTML tags to use, maybe `<p>`, `<b>`, maybe inline styling?
+	* Try searching for "thing I want to do" + "HTML" and see what results come up!
+
+
 
 12. Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack. 
 
