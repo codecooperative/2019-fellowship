@@ -84,6 +84,8 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 5. Select the "index.html" file and DELETE EVERYTHING in it
 
+![](images/glitch4.png)
+
 6. Copy and paste the following into it (we will go over this code in a moment)
 
 ```
@@ -100,11 +102,11 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 7. Click on the "Show" button
 
-![](images/glitch4.png)
+![](images/glitch5.png)
 
 8. You should see... a blank page!
 
-![](images/glitch5.png)
+![](images/glitch6.png)
 
 9. Go back to your Glitch project and add the following between the two `<body> </body>` lines
 
@@ -124,7 +126,7 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 10. Refresh your project show page. You should see:
 
-![](images/glitch6.png)
+![](images/glitch7.png)
 
 11. Write the rest of your User Guide! Use Google to research how to make your user guide page
 
