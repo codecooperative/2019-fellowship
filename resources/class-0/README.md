@@ -10,14 +10,15 @@ TODO
 
 Google Chrome is the browser we will use to learn to code.
 
-* Download Google Chrome here: https://www.google.com/chrome/
+* Download Google Chrome here: [https://www.google.com/chrome/
+](https://www.google.com/chrome/)
 
 ### Slack
 
 Slack is a messaging app. We will use it to communicate about class, code, anything and everything!
 
-* Download Slack here: https://slack.com/downloads
-* Join the #2019-fellowship channel!
+* Download Slack here: [https://slack.com/downloads](https://slack.com/downloads)
+* Join the `#2019-fellowship` channel!
 * Start chatting :)
 
 ## Set up your User Guide
@@ -68,7 +69,7 @@ Here is Tolu's User Guide:
 
 We will use Glitch to create our User Guide. Glitch is a website that makes it super easy to write and share code.
 
-1. Go to http://glitch.com
+1. Go to [http://glitch.com](http://glitch.com)
 
 2. Sign up using your email address and a password (make sure to choose a password you will remember)
 
@@ -78,12 +79,12 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch2.png)
 
-4. This is your new Glitch project! Take some time to read the README.md file.
-	* You'll see README files often - a README is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
+4. This is your new Glitch project! Take some time to read the `README.md` file.
+	* You'll see `README` files often - a `README` is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
 
 ![](images/glitch3.png)
 
-5. Select the "index.html" file and DELETE EVERYTHING in it
+5. Select the `index.html` file and DELETE EVERYTHING in it
 
 ![](images/glitch4.png)
 
@@ -109,27 +110,24 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch6.png)
 
-9. Go back to your Glitch project and add the following between the two `<body> </body>` lines
+9. Go back to your Glitch project and add the following between the two `<body> </body>` tags
 
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My User Guide</title>
-  </head>
-  <body>
+<body>
 
-    Alex's User Guide
+  Alex's User Guide
 
-  </body>
-</html>
+</body>
 ```
 
 10. Refresh your project show page. You should see:
 
 ![](images/glitch7.png)
 
-11. Write the rest of your User Guide! Use Google to research how to make your user guide page
+11. Write the rest of your User Guide! Use Google to research how to make your user guide page. Try searching for "thing I want to do" + "HTML" and see what results come up!
 
-12. Share your User Guide link (should look like `some-words.glitch.me`) with everyone in Slack.
+12. Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack. 
 
+Great job!
+
+✨✨✨
