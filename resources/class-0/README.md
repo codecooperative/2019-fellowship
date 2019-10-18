@@ -10,15 +10,20 @@ TODO
 
 Google Chrome is the browser we will use to learn to code.
 
-* Download Google Chrome here: https://www.google.com/chrome/
+* Download Google Chrome here: [https://www.google.com/chrome/
+](https://www.google.com/chrome/)
 
 ### Slack
 
 Slack is a messaging app. We will use it to communicate about class, code, anything and everything!
 
-* Download Slack here: https://slack.com/downloads
-* Join the #2019-fellowship channel!
+* Download Slack here: [https://slack.com/downloads](https://slack.com/downloads)
+* Join the `#2019-fellowship` channel!
 * Start chatting :)
+
+## What is HTML?
+
+TODO: Brief overview of what HTML is, maybe something from here? [http://www.goodellgroup.com/tutorial/chapter1.html](http://www.goodellgroup.com/tutorial/chapter1.html)
 
 ## Set up your User Guide
 
@@ -28,39 +33,39 @@ A User Guide is like a "How To" for a human being.
 
 Here is Tolu's User Guide:
 
-**Name:** Tolu
+> **Name:** Tolu
 
-**Pronouns:** She/her/hers
+> **Pronouns:** She/her/hers
 
-**Astrological sign:**
+> **Astrological sign:**
 
-**Favorite food:**
+> **Favorite food:**
 
-**Favorite song:**
+> **Favorite song:**
 
-**List your top 3 strengths:**
+> **List your top 3 strengths:**
 
-Deliberative, Individualization, Restorative.
+> Deliberative, Individualization, Restorative.
 
-**What I value**
+> **What I value**
 
-Empathy, curiosity, and consideration. A clear prioritization of everyone’s best interests. A successful working partnership takes into account our humanity and that we might be in disparate emotional places at the start of an interaction. I value community and try to make sure people feel a foundational level of safety in whatever space we’re in together.
+> Empathy, curiosity, and consideration. A clear prioritization of everyone’s best interests. A successful working partnership takes into account our humanity and that we might be in disparate emotional places at the start of an interaction. I value community and try to make sure people feel a foundational level of safety in whatever space we’re in together.
 
-**What I need to be successful**
+> **What I need to be successful**
 
-Transparency, a clear picture of our goal. Alone time to understand the material/task at hand in my own way, coupled with voice-to-voice collaboration to clarify issues or solve stubborn problems together.
+> Transparency, a clear picture of our goal. Alone time to understand the material/task at hand in my own way, coupled with voice-to-voice collaboration to clarify issues or solve stubborn problems together.
 
-**The best way to motivate me to do something**
+> **The best way to motivate me to do something**
 
-Talking about how the end goal benefits the user’s life. Giving advance notice, clearly communicating the goal and the acceptance criteria.
+> Talking about how the end goal benefits the user’s life. Giving advance notice, clearly communicating the goal and the acceptance criteria.
 
-**How to best communicate with me**
+> **How to best communicate with me**
 
-I like direct feedback in voice-to-voice conversation ideally. For simple matters, I prefer Slack messages, and for matters where clarifying questions are likely, calls. I prefer that people approach me with the acknowledgement that we are humans first, before our job titles. Everyone is worth the same, and that knowledge should color all interactions.
+> I like direct feedback in voice-to-voice conversation ideally. For simple matters, I prefer Slack messages, and for matters where clarifying questions are likely, calls. I prefer that people approach me with the acknowledgement that we are humans first, before our job titles. Everyone is worth the same, and that knowledge should color all interactions.
 
-**What people misunderstand about me**
+> **What people misunderstand about me**
 
-I’ve been told that I can seem aloof or uninterested upon first meeting, because I’m not quick to speak. It takes a lot for me to speak up in unfamiliar settings, with new people, and in large group settings. I can if absolutely necessary, but am most comfortable in small group settings and with a substantial period of shared proximity before speaking at length to or with anyone.
+> I’ve been told that I can seem aloof or uninterested upon first meeting, because I’m not quick to speak. It takes a lot for me to speak up in unfamiliar settings, with new people, and in large group settings. I can if absolutely necessary, but am most comfortable in small group settings and with a substantial period of shared proximity before speaking at length to or with anyone.
 
 ---
 
@@ -68,7 +73,7 @@ I’ve been told that I can seem aloof or uninterested upon first meeting, becau
 
 We will use Glitch to create our User Guide. Glitch is a website that makes it super easy to write and share code.
 
-1. Go to http://glitch.com
+1. Go to [http://glitch.com](http://glitch.com)
 
 2. Sign up using your email address and a password (make sure to choose a password you will remember)
 
@@ -78,11 +83,12 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch2.png)
 
-4. This is your new Glitch project! Take some time to read the README.md file
+4. This is your new Glitch project! Take some time to read the `README.md` file.
+	* You'll see `README` files often - a `README` is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
 
 ![](images/glitch3.png)
 
-5. Select the "index.html" file and DELETE EVERYTHING in it
+5. Select the `index.html` file and DELETE EVERYTHING in it
 
 ![](images/glitch4.png)
 
@@ -108,27 +114,28 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 
 ![](images/glitch6.png)
 
-9. Go back to your Glitch project and add the following between the two `<body> </body>` lines
+9. Go back to your Glitch project and add the following between the two `<body> </body>` tags
 
 ```
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My User Guide</title>
-  </head>
-  <body>
+<body>
 
-    Alex's User Guide
+  Alex's User Guide
 
-  </body>
-</html>
+</body>
 ```
 
 10. Refresh your project show page. You should see:
 
 ![](images/glitch7.png)
 
-11. Write the rest of your User Guide! Use Google to research how to make your user guide page
+11. Write the rest of your User Guide! Use Google to research how to make your user guide page.
+	* TODO: Add a suggestion for a few HTML tags to use, maybe `<p>`, `<b>`, maybe inline styling?
+	* Try searching for "thing I want to do" + "HTML" and see what results come up!
 
-12. Share your User Guide link (should look like `some-words.glitch.me`) with everyone in Slack.
 
+
+12. Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack. 
+
+Great job!
+
+✨✨✨
