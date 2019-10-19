@@ -171,7 +171,7 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 ![](images/glitch7.png)
 
 11. Write the rest of your User Guide! Use Google to research how to make your user guide page.
-    - TODO: Add a suggestion for a few HTML tags to use, maybe `<p>`, `<b>`, maybe inline styling?
+    - <p></p> tags can be used to wrap sentences, while <h1>, <h2> ...all the way to <h6> tags are often used for headings and subheadings.
     - Try searching for "thing I want to do" + "HTML" and see what results come up!
 
 12) Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack.
