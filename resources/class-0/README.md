@@ -4,16 +4,16 @@
 
 Now is the time to set personal goals for the fellowship. We will set:
 
-* Long term goals
-* Weekly goals
+- Long term goals
+- Weekly goals
 
 Goals should be SMART!
 
-* Specific
-* Measurable
-* Attainable
-* Relevant
-* Timely
+- Specific
+- Measurable
+- Attainable
+- Relevant
+- Timely
 
 Working with your pod mates and mentors, set at least 2 SMART long-term goals and at least 3 SMART weekly goals!
 
@@ -21,25 +21,25 @@ Working with your pod mates and mentors, set at least 2 SMART long-term goals an
 
 By the end of the program I want to be able to...
 
-* Build an app
-* Make a game
-* Design and build a website for my business
-* Use the Internet to find information about anything
-* Apply principles of digital security to use technology safely
-* Type without looking at the keyboard
-* Teach others how to build a website
+- Build an app
+- Make a game
+- Design and build a website for my business
+- Use the Internet to find information about anything
+- Apply principles of digital security to use technology safely
+- Type without looking at the keyboard
+- Teach others how to build a website
 
 **Example weekly goals:**
 
 For next week, I will...
 
-* Use Google to research how change the background color of my website
-* Add links and images to my first website
-* Complete The Coding Train p5.js tutorials 1 & 2
-* Read the MDN introduction to JavaScript
-* Practice typing on typingclub for 20 min every day
-* Write a "Hello World" python program
-* Draw wireframes for my app
+- Use Google to research how change the background color of my website
+- Add links and images to my first website
+- Complete The Coding Train p5.js tutorials 1 & 2
+- Read the MDN introduction to JavaScript
+- Practice typing on typingclub for 20 min every day
+- Write a "Hello World" python program
+- Draw wireframes for my app
 
 Our long-term goals may change over time and we will set new weekly goals every week!
 
@@ -51,21 +51,21 @@ Our long-term goals may change over time and we will set new weekly goals every 
 
 Google Chrome is the browser we will use to learn to code.
 
-* Download Google Chrome here: [https://www.google.com/chrome/
-](https://www.google.com/chrome/)
+- Download Google Chrome here: [https://www.google.com/chrome/
+  ](https://www.google.com/chrome/)
 
 ### Slack
 
 Slack is a messaging app. We will use it to communicate about class, code, anything and everything!
 
-* Download Slack here: [https://slack.com/downloads](https://slack.com/downloads)
-* Join the `#2019-fellowship` channel!
-* Start chatting :)
+- Download Slack here: [https://slack.com/downloads](https://slack.com/downloads)
+- Join the `#2019-fellowship` channel!
+- Start chatting :)
 
 ## What is HTML?
 
-* [MDN - What is HTML?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-* [http://www.goodellgroup.com/tutorial/chapter1.html](http://www.goodellgroup.com/tutorial/chapter1.html)
+- [MDN - What is HTML?](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [http://www.goodellgroup.com/tutorial/chapter1.html](http://www.goodellgroup.com/tutorial/chapter1.html)
 
 ## Set up your User Guide
 
@@ -75,7 +75,7 @@ A User Guide is like a "How To" for a human being.
 
 Here is Tolu's User Guide:
 
-> **Name:** Tolu
+> **Name:** Danielle
 
 > **Pronouns:** She/her/hers
 
@@ -126,7 +126,7 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 ![](images/glitch2.png)
 
 4. This is your new Glitch project! Take some time to read the `README.md` file.
-	* You'll see `README` files often - a `README` is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
+   - You'll see `README` files often - a `README` is a plain text file that explains how an application works and how to interact with it. It's a source of documentation for an app.
 
 ![](images/glitch3.png)
 
@@ -171,12 +171,10 @@ We will use Glitch to create our User Guide. Glitch is a website that makes it s
 ![](images/glitch7.png)
 
 11. Write the rest of your User Guide! Use Google to research how to make your user guide page.
-	* TODO: Add a suggestion for a few HTML tags to use, maybe `<p>`, `<b>`, maybe inline styling?
-	* Try searching for "thing I want to do" + "HTML" and see what results come up!
+    - TODO: Add a suggestion for a few HTML tags to use, maybe `<p>`, `<b>`, maybe inline styling?
+    - Try searching for "thing I want to do" + "HTML" and see what results come up!
 
-
-
-12. Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack.
+12) Share your User Guide (the link should look like `some-words.glitch.me`) with everyone in Slack.
 
 Great job!
 
