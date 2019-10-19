@@ -73,9 +73,9 @@ Slack is a messaging app. We will use it to communicate about class, code, anyth
 
 A User Guide is like a "How To" for a human being.
 
-Here is Tolu's User Guide:
+Here is an example User Guide:
 
-> **Name:** Tolu
+> **Name:** Danielle
 
 > **Pronouns:** She/her/hers
 
